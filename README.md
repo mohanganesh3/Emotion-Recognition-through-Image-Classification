@@ -52,10 +52,10 @@ We create a Convolutional Neural Network (CNN), which is a special type of model
 
 # 📂 Repository Structure
 
-📦ImageClassification
- ┣ 📜README.md                   # Project documentation
- ┣ 📜Getting Started.ipynb        # Jupyter notebook for model development
- ┣ 📂data                         # Folder containing training images
- ┃ ┣ 📂happy                     # Images classified as happy
- ┃ ┗ 📂sad                       # Images classified as sad
- ┗ 📜models                       # Folder to save trained models
+	📦ImageClassification
+	 ┣ 📜README.md                   # Project documentation
+	 ┣ 📜Getting Started.ipynb        # Jupyter notebook for model development
+	 ┣ 📂data                         # Folder containing training images
+	 ┃ ┣ 📂happy                     # Images classified as happy
+	 ┃ ┗ 📂sad                       # Images classified as sad
+	 ┗ 📜models                       # Folder to save trained models
