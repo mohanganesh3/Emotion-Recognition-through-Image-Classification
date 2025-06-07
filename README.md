@@ -378,15 +378,11 @@ We welcome contributions! Please see our contributing guidelines:
 
 ## 📞 Contact & Support
 
-**Project Maintainer**: [Your Name]  
-**Email**: your.email@example.com  
-**LinkedIn**: [Your LinkedIn Profile]  
-**GitHub**: [Your GitHub Profile]
+**Project Maintainer**: Mohan Ganesh  
 
-### Professional References
-- **Portfolio**: [Your Portfolio Website]
-- **Technical Blog**: [Your Blog/Medium]
-- **Research Papers**: [Your Publications]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/mohan-ganesh-gottipati-22279b310/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/mohanganesh3)
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:mohanganesh165577@gmail.com)
 
 ---
 
